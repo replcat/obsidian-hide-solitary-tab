@@ -1,0 +1,5 @@
+.mod-stacked > .workspace-tab-header-container,
+.workspace-tab-header-container:has(.workspace-tab-header:last-child:nth-child(1))
+{
+  display: none !important;
+}

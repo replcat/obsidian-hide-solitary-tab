@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-hide-solitary-tab",
+	"name": "Hide Solitary Tab",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Hide the tab bar when there's one or fewer tabs.",
+	"author": "replcat",
+	"authorUrl": "https://github.com/replcat",
+	"isDesktopOnly": true
+}
